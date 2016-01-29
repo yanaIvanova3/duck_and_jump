@@ -1,0 +1,21 @@
+{
+  "name": "Jump_and_duck",
+  "homepage": "https://github.com/yanaIvanova3/duck_and_jump",
+  "authors": [
+    "ittalents"
+  ],
+  "description": "simple JS game",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
